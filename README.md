@@ -13,6 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siegelth&show_icons=true&locale=en&layout=compact" alt="siegelth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siegelth&show_icons=true&locale=en" alt="siegelth" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siegelth&" alt="siegelth" /></p>
