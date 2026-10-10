@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siegelth</h1>
 <h3 align="center">I aim to become a reliable and efficient full-stack developer, and I am working towards that goal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siegelth&label=Profile%20views&color=0e75b6&style=flat" alt="siegelth" /> </p>
-
 <p align="left">
 </p>
 
